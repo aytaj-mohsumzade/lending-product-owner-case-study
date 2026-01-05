@@ -1,33 +1,42 @@
-# Digital Lending Product – Product Owner Case Study
-This repository demonstrates my approach as a Product Owner working on a digital lending product
-within a banking environment, covering discovery, strategy, delivery, and measurement.
+# Digital Lending Product — Product Owner Case Study
 
+This case study showcases how I approach product ownership for a digital lending product,
+focusing on customer value, clear priorities, and effective collaboration with IT squads
+and business stakeholders.
 
-## Problem Statement
-Loan application processes are often slow, opaque, and manual, leading to high customer drop-off
-and operational inefficiencies.
+---
 
+## The Problem
+Applying for a loan is often time-consuming and unclear for customers, while banks face
+manual processes, high drop-off rates, and operational overhead.
 
-## Target Users
-- Retail customers (salary-based personal loans)
-- Micro and small business owners (SME lending)
+---
 
+## Who This Product Is For
+- Individuals applying for personal loans
+- Small business owners applying for SME loans
 
-## Product Vision
-Enable fast, transparent, and data-driven loan applications with clear eligibility,
-status tracking, and reduced time-to-decision.
+---
 
+## Product Goal
+Create a simple and transparent digital loan journey that allows customers to:
+- Understand eligibility early
+- Apply fully online
+- Track application progress
+- Receive faster decisions
 
-## Success Metrics (KPIs)
-- Time to credit decision
-- Application completion rate
-- Drop-off per funnel step
-- Net Promoter Score (NPS)
-- Cost per approved loan
+---
 
+## How Success Is Measured
+- Faster time to decision
+- Higher application completion rate
+- Reduced drop-off during application
+- Improved customer satisfaction (NPS)
 
-## MVP Scope
-- Eligibility pre-check
-- Digital loan application
-- Document upload
+---
+
+## MVP Focus
+- Loan eligibility pre-check
+- Online application form
+- Digital document upload
 - Application status tracking
