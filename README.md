@@ -1,5 +1,4 @@
 # Digital Lending Product – Product Owner Case Study
-
 This repository demonstrates my approach as a Product Owner working on a digital lending product
 within a banking environment, covering discovery, strategy, delivery, and measurement.
 
